@@ -1,7 +1,7 @@
 {
   "id": "premium-tv",
   "name": "Premium TV",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "apiVersion": 9,
   "entry": "plugin.js",
   "description": "Canales de TV en vivo desde listas M3U, agrupados por categorías: trae una lista pública lista para usar y acepta las tuyas, con guía de programación opcional.",
@@ -16,6 +16,7 @@
     "channels"
   ],
   "liveStreamHosts": "any",
+  "streamHosts": "any",
   "categories": [
     "live"
   ],
